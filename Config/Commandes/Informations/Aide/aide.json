@@ -1,0 +1,22 @@
+{
+    "nompage": {
+        "accueil": "Accueil",
+        "configurations": "Configuration",
+        "Informations": "Informations",
+        "moderations": "Modération"
+    },
+    
+    "iconlien": {
+        "accueil": "https://i.imgur.com/Pq8ASFT.png",
+        "configurations": "https://i.imgur.com/6tvo2ST.png",
+        "informations": "https://i.imgur.com/bHCnBHd.png",
+        "moderations": "https://i.imgur.com/DccXxLv.png"
+    },
+    
+    "emoji": {
+        "accueil": "🏡",
+        "configurations": "⚙",
+        "informations": "💼",
+        "moderations": "🔨"
+    }
+}

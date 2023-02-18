@@ -1,0 +1,23 @@
+
+{
+    "EMOJIS": {    
+    "Journal": "📰",
+    "Bloquer": "🔒",
+    "Ouvert": "🔓",
+    "Valider": "✅",
+    "ValiderGif":"<a: Verification:1075216399598891080>", 
+    "SacPieces": "💰",
+    "CarteBancaire": "💳",
+    "Robot": "🤖",
+    "Exclamation": "❗",
+    "Attention": "⚠️",
+    "Dossier":"📑",
+    "PingPong": "🏓",
+    "Effacer": "🧹",
+    "Antenne": "📡",
+    "Satellite": "🛰️",
+    "Carte": "🛒",
+    "Chargement": "⏳",
+    "ChargementGif": "<a:Chargement:1075216396969050193>"
+}
+}
